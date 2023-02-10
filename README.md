@@ -1,6 +1,6 @@
 # Fake Store Enhanced with Delete Button
 
-At the end of the previous project, it displays Cards, one per product, with information and an image about the product. In this project, you will add a Delete button on each card, and work with state so that clicking the Delete button will remove that card/product from the display. The results look like this:
+At the end of [the previous project](https://github.com/bell-kevin/fakeStoreEnhancedWithCards), it displays Cards, one per product, with information and an image about the product. In this project, you will add a Delete button on each card, and work with state so that clicking the Delete button will remove that card/product from the display. The results look like this:
 
 Launch: (notice the change in the h1 tag)
 
