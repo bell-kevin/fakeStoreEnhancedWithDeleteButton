@@ -66,6 +66,10 @@ When properly connected, the project should display all of the products in separ
 
 Submission: Zip the 2 screenshots and the root folder for the project together, and submit the single zipped folder.
 
+![p](https://github.com/bell-kevin/fakeStoreEnhancedWithDeleteButton/blob/main/outputScreenshots/1.PNG)
+
+![p](https://github.com/bell-kevin/fakeStoreEnhancedWithDeleteButton/blob/main/outputScreenshots/2.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
