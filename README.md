@@ -4,13 +4,13 @@ At the end of [the previous project](https://github.com/bell-kevin/fakeStoreEnha
 
 Launch: (notice the change in the h1 tag)
 
-FakeStoreDel-1.PNG
+![FakeStoreDel-1.PNG](https://github.com/bell-kevin/fakeStoreEnhancedWithDeleteButton/blob/main/readMeScreenShots/FakeStoreDel-1.PNG)
 
  
 
 After clicking on the Delete button on the first item: (notice that the second item in the previous image is now the first item)
 
-FakeStoreDel-2.PNG
+![FakeStoreDel-2.PNG](https://github.com/bell-kevin/fakeStoreEnhancedWithDeleteButton/blob/main/readMeScreenShots/FakeStoreDel-2.PNG)
 
  
 
